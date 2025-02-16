@@ -366,7 +366,7 @@
             "host": "host.docker.internal",
             "port": 3306,
             "user": "root",
-            "password": "Mbam475275$",
+            "password": "",
             "is_fast": false
         }
 
